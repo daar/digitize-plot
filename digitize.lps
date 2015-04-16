@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="34">
+      <Unit0>
+        <Filename Value="digitize.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="digitize"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="1"/>
+        <UsageCount Value="152"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Main"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="289"/>
+        <CursorPos X="63" Y="306"/>
+        <UsageCount Value="152"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="glimage.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GLImage"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="32"/>
+        <CursorPos X="1" Y="56"/>
+        <UsageCount Value="141"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="camera.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Camera"/>
+        <EditorIndex Value="7"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="49"/>
+        <CursorPos X="19" Y="59"/>
+        <UsageCount Value="140"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="about.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AboutForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="About"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="27"/>
+        <CursorPos X="10" Y="37"/>
+        <UsageCount Value="99"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="version.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Version"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="21" Y="16"/>
+        <UsageCount Value="97"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="uaxis.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UAxis"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="31" Y="8"/>
+        <UsageCount Value="94"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\..\fpc264\packages\fcl-image\src\fpimage.pp"/>
+        <UnitName Value="FPimage"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="130"/>
+        <CursorPos X="39" Y="134"/>
+        <UsageCount Value="61"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="framecounter.pas"/>
+        <UnitName Value="FrameCounter"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="26"/>
+        <CursorPos X="3" Y="38"/>
+        <UsageCount Value="26"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\..\lazarus\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1098"/>
+        <CursorPos X="3" Y="1113"/>
+        <UsageCount Value="26"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\..\fpc264\packages\opengl\src\gl.pp"/>
+        <UnitName Value="GL"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1215"/>
+        <CursorPos X="3" Y="1229"/>
+        <UsageCount Value="68"/>
+        <Loaded Value="True"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="gldrawing.pas"/>
+        <UnitName Value="glDrawing"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="226"/>
+        <CursorPos X="3" Y="249"/>
+        <UsageCount Value="64"/>
+        <Loaded Value="True"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\..\fpc264\rtl\objpas\classes\classesh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="18"/>
+        <CursorPos X="4" Y="32"/>
+        <UsageCount Value="25"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="glinfo.pas"/>
+        <UnitName Value="glInfo"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="59"/>
+        <CursorPos X="1" Y="74"/>
+        <UsageCount Value="4"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="..\..\lazarus\ide\aboutfrm.pas"/>
+        <ComponentName Value="AboutForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="AboutFrm"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="216"/>
+        <CursorPos X="5" Y="219"/>
+        <UsageCount Value="4"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="..\..\lazarus\lcl\lclintf.pas"/>
+        <UnitName Value="LCLIntf"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="62"/>
+        <CursorPos X="10" Y="76"/>
+        <UsageCount Value="4"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="..\..\lazarus\lcl\include\sysenvapis_win.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="17"/>
+        <CursorPos X="1" Y="34"/>
+        <UsageCount Value="4"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="..\..\lazarus\lcl\include\control.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="3234"/>
+        <CursorPos X="1" Y="3252"/>
+        <UsageCount Value="4"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="..\..\fpc264\packages\fcl-image\src\fpcolors.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="10"/>
+        <CursorPos X="10" Y="23"/>
+        <UsageCount Value="33"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="transform.pas"/>
+        <UnitName Value="Transform"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="155"/>
+        <CursorPos X="37" Y="114"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="..\..\fpc264\rtl\inc\matrix.pp"/>
+        <UnitName Value="matrix"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="34"/>
+        <CursorPos X="29" Y="51"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="..\..\fpc264\packages\opengl\src\glu.pp"/>
+        <UnitName Value="glu"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="354"/>
+        <CursorPos X="13" Y="377"/>
+        <UsageCount Value="11"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="..\..\fpc264\rtl\win\wininc\struct.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="213"/>
+        <CursorPos X="11" Y="218"/>
+        <UsageCount Value="11"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="F:\_blender\blender-git-master\blender-git-master\source\blender\makesrna\intern\rna_space.c"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1419"/>
+        <CursorPos X="66" Y="1442"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="C++"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="F:\_blender\blender-git-master\blender-git-master\source\blender\editors\space_node\node_draw.c"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1356"/>
+        <CursorPos X="2" Y="1383"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="C++"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="F:\_blender\blender-git-master\blender-git-master\source\blender\editors\transform\transform_conversions.c"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2485"/>
+        <CursorPos X="37" Y="2499"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="C++"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="F:\_blender\blender-git-master\blender-git-master\source\blender\editors\interface\resources.c"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="69"/>
+        <CursorPos X="15" Y="454"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="C++"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="F:\_blender\blender-git-master\blender-git-master\intern\ghost\intern\GHOST_Context.cpp"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="132"/>
+        <CursorPos X="38" Y="157"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="C++"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="F:\_blender\blender-git-master\blender-git-master\source\blender\editors\interface\interface_draw.c"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1053"/>
+        <CursorPos X="26" Y="1096"/>
+        <UsageCount Value="11"/>
+        <DefaultSyntaxHighlighter Value="C++"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="F:\_blender\blender-git-master\blender-git-master\source\blender\editors\mask\mask_draw.c"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="219"/>
+        <CursorPos X="41" Y="211"/>
+        <UsageCount Value="14"/>
+        <DefaultSyntaxHighlighter Value="C++"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="..\..\fpc264\rtl\inc\mathh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="55"/>
+        <CursorPos X="14" Y="69"/>
+        <UsageCount Value="9"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="F:\_blender\blender-git-master\blender-git-master\source\blender\makesdna\DNA_curve_types.h"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="364"/>
+        <CursorPos X="9" Y="378"/>
+        <UsageCount Value="13"/>
+        <DefaultSyntaxHighlighter Value="C++"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="..\..\lazarus\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2565"/>
+        <CursorPos X="3" Y="2578"/>
+        <UsageCount Value="10"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="..\..\lazarus\components\opengl\openglcontext.pas"/>
+        <UnitName Value="OpenGLContext"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="382"/>
+        <CursorPos X="1" Y="395"/>
+        <UsageCount Value="10"/>
+      </Unit33>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="main.pas"/>
+        <Caret Line="252" Column="1" TopLine="242"/>
+      </Position1>
+      <Position2>
+        <Filename Value="main.pas"/>
+        <Caret Line="253" Column="1" TopLine="242"/>
+      </Position2>
+      <Position3>
+        <Filename Value="main.pas"/>
+        <Caret Line="254" Column="1" TopLine="242"/>
+      </Position3>
+      <Position4>
+        <Filename Value="transform.pas"/>
+        <Caret Line="111" Column="1" TopLine="104"/>
+      </Position4>
+      <Position5>
+        <Filename Value="main.pas"/>
+        <Caret Line="252" Column="1" TopLine="245"/>
+      </Position5>
+      <Position6>
+        <Filename Value="main.pas"/>
+        <Caret Line="253" Column="1" TopLine="245"/>
+      </Position6>
+      <Position7>
+        <Filename Value="main.pas"/>
+        <Caret Line="252" Column="1" TopLine="245"/>
+      </Position7>
+      <Position8>
+        <Filename Value="main.pas"/>
+        <Caret Line="253" Column="1" TopLine="245"/>
+      </Position8>
+      <Position9>
+        <Filename Value="main.pas"/>
+        <Caret Line="254" Column="1" TopLine="245"/>
+      </Position9>
+      <Position10>
+        <Filename Value="transform.pas"/>
+        <Caret Line="105" Column="1" TopLine="81"/>
+      </Position10>
+      <Position11>
+        <Filename Value="transform.pas"/>
+        <Caret Line="106" Column="1" TopLine="81"/>
+      </Position11>
+      <Position12>
+        <Filename Value="transform.pas"/>
+        <Caret Line="113" Column="1" TopLine="81"/>
+      </Position12>
+      <Position13>
+        <Filename Value="main.pas"/>
+        <Caret Line="259" Column="1" TopLine="245"/>
+      </Position13>
+      <Position14>
+        <Filename Value="main.pas"/>
+        <Caret Line="289" Column="43" TopLine="276"/>
+      </Position14>
+      <Position15>
+        <Filename Value="main.pas"/>
+        <Caret Line="94" Column="5" TopLine="88"/>
+      </Position15>
+      <Position16>
+        <Filename Value="main.pas"/>
+        <Caret Line="37" Column="1" TopLine="25"/>
+      </Position16>
+      <Position17>
+        <Filename Value="main.pas"/>
+        <Caret Line="146" Column="3" TopLine="142"/>
+      </Position17>
+      <Position18>
+        <Filename Value="main.pas"/>
+        <Caret Line="69" Column="3" TopLine="55"/>
+      </Position18>
+      <Position19>
+        <Filename Value="main.pas"/>
+        <Caret Line="115" Column="24" TopLine="256"/>
+      </Position19>
+      <Position20>
+        <Filename Value="main.pas"/>
+        <Caret Line="297" Column="26" TopLine="274"/>
+      </Position20>
+      <Position21>
+        <Filename Value="main.pas"/>
+        <Caret Line="14" Column="43" TopLine="1"/>
+      </Position21>
+      <Position22>
+        <Filename Value="main.pas"/>
+        <Caret Line="104" Column="17" TopLine="81"/>
+      </Position22>
+      <Position23>
+        <Filename Value="main.pas"/>
+        <Caret Line="297" Column="26" TopLine="274"/>
+      </Position23>
+      <Position24>
+        <Filename Value="main.pas"/>
+        <Caret Line="14" Column="43" TopLine="1"/>
+      </Position24>
+      <Position25>
+        <Filename Value="main.pas"/>
+        <Caret Line="104" Column="17" TopLine="274"/>
+      </Position25>
+      <Position26>
+        <Filename Value="main.pas"/>
+        <Caret Line="285" Column="30" TopLine="279"/>
+      </Position26>
+      <Position27>
+        <Filename Value="main.pas"/>
+        <Caret Line="116" Column="11" TopLine="113"/>
+      </Position27>
+      <Position28>
+        <Filename Value="main.pas"/>
+        <Caret Line="316" Column="1" TopLine="289"/>
+      </Position28>
+      <Position29>
+        <Filename Value="main.pas"/>
+        <Caret Line="317" Column="1" TopLine="290"/>
+      </Position29>
+      <Position30>
+        <Filename Value="main.pas"/>
+        <Caret Line="316" Column="1" TopLine="289"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>
