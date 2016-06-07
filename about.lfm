@@ -1,7 +1,7 @@
 object AboutForm: TAboutForm
-  Left = 403
+  Left = 321
   Height = 385
-  Top = 326
+  Top = 169
   Width = 665
   BorderStyle = bsSizeToolWin
   Caption = 'About digitize'
@@ -11,7 +11,7 @@ object AboutForm: TAboutForm
   OnKeyPress = FormKeyPress
   OnShow = FormShow
   Position = poScreenCenter
-  LCLVersion = '1.2.6.0'
+  LCLVersion = '1.6.0.4'
   object PageControl: TPageControl
     Left = 8
     Height = 369
@@ -1117,7 +1117,7 @@ object AboutForm: TAboutForm
     Left = 440
     Height = 15
     Top = 142
-    Width = 67
+    Width = 66
     Caption = 'VersionLabel'
     ParentColor = False
   end
@@ -1148,8 +1148,8 @@ object AboutForm: TAboutForm
     Left = 440
     Height = 15
     Top = 240
-    Width = 214
-    Caption = 'https://code.google.com/p/digitize-plot'
+    Width = 199
+    Caption = 'https://github.com/daar/digitize-plot'
     Font.Color = clBlue
     ParentColor = False
     ParentFont = False
